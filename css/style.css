@@ -1,0 +1,24 @@
+form {
+    float: left;
+}
+
+body {
+    font-family: 'Gugi', cursive;
+    font-size: 40
+}
+
+.my-float {
+    float: left;
+}
+
+
+}
+
+
+.navbar {
+    background-color: #fccf40;
+}
+
+.fluid-container {
+    float: left;
+}
